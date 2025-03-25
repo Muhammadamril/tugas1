@@ -1,4 +1,4 @@
-# Data Karyawan (langsung ada)
+# Data Karyawan 
 karyawan = [
     ("K001", "Andi", "Manager"),
     ("K002", "Budi", "Kasir"),
